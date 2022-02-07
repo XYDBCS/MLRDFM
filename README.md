@@ -7,9 +7,14 @@ If you use this code, please cite this paper.
 
 # ENVIRONMENT
 Python 3.6.13
+
 Tensorflow 1.14
+
 numpy 1.17.0
+
 scipy 1.5.2
+
+
 
 
 # Usage
