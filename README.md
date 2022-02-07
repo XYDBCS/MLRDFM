@@ -4,6 +4,14 @@ This project includes a Tensorflow implementation of a Multi-view Laplacian regu
 The code is for the Paper "MLRDFM: a multi-view Laplacian regularized DeepFM model for predicting miRNA-disease associations".
 If you use this code, please cite this paper.
 
+
+# ENVIRONMENT
+Python 3.6.13
+Tensorflow 1.14
+numpy 1.17.0
+scipy 1.5.2
+
+
 # Usage
 ## Input Format
 This implementation requires the input data in the following format:
